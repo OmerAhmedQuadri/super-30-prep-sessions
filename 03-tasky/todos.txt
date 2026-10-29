@@ -1,0 +1,7 @@
+learn about what is mvc architecture in backend
+
+project 3:
+
+complete the tasky backend with all the crud operations 
+
+install postman and test all your apis
